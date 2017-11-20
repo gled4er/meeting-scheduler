@@ -1,3 +1,3 @@
-# meeting-scheduler
+# Meeting Scheduler
 
 Meeting Scheduler Bot
